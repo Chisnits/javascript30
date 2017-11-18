@@ -1,3 +1,3 @@
-() => {
-    alert('chase is awesome')
+() =>{
+    alert('chase is cool')
 }
