@@ -1,3 +1,0 @@
-() => {
-    alert('chase is working')
-}
